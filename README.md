@@ -10,7 +10,7 @@
 </html>
 
 
-# 🏭 Manufacturing Defect Reduction Analysis  
+# 🏭 Manufacturing Defect Reduction Analysis Project 
 ### 📊 Quality Improvement in Electronic Board Production
 
 > A data-driven process improvement project focused on reducing welding defects while increasing production capacity in an electronics manufacturing facility.
