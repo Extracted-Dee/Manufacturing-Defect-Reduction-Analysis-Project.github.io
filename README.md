@@ -82,8 +82,7 @@ The most frequent defects across the facility were:
 👉 These three defect types became the primary focus for improvement efforts.
 
 <img src="https://www.cdc.gov/cove/media/images/2024/09/Bar-Chart-01.png" alt="alternatetext">
-![Alt text](Screen Shot 2025-06-29 at 11.56.55 PM.png)
-![test text](rename.png)
+
 
 ---
 
@@ -99,8 +98,7 @@ The most frequent defects across the facility were:
 **Solder Bridge defects appeared across nearly all models**, indicating a systemic process issue rather than a product-specific problem.
 
 <img src="https://www.cdc.gov/cove/media/images/2024/09/Bar-Chart-01.png" alt="alternatetext">
-![Alt text](Screen Shot 2025-06-29 at 11.56.55 PM.png)
-![test text](rename.png)
+
 ---
 
 ## 🧠 Root Cause Analysis
@@ -108,8 +106,7 @@ The most frequent defects across the facility were:
 A Fishbone (Ishikawa) framework was used to categorize likely root causes.
 
 <img src="https://www.cdc.gov/cove/media/images/2024/09/Bar-Chart-01.png" alt="alternatetext">
-![Alt text](Screen Shot 2025-06-29 at 11.56.55 PM.png)
-![test text](rename.png)
+
 
 ### ⚙️ Methods
 - Inconsistent soldering procedures  
